@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/UX design/10 Usability Heuristics.md",
+                "file": "Knowledge/UX design/Information Architechture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87d936d8f380af8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/UX design/UX research.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 231.5
   },
   "right": {
     "id": "1b5b4a3d0e82d4cb",
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/UX design/10 Usability Heuristics.md",
+                "file": "Knowledge/UX design/UX research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Knowledge/UX design/10 Usability Heuristics.md",
+                "file": "Knowledge/UX design/UX research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge/UX design/10 Usability Heuristics.md"
+                "file": "Knowledge/UX design/UX research.md"
               }
             }
           }
@@ -155,18 +168,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c79fbf57f53cea63",
+  "active": "87d936d8f380af8d",
   "lastOpenFiles": [
-    "Knowledge/UX design/Accessibility vs Usability.md",
+    "Knowledge/UX design/User research bias.md",
+    "Knowledge/UX design/UX research.md",
+    "Knowledge/UX design/UX definition.md",
+    "Knowledge/UX design/Usability testing methods.md",
+    "Knowledge/UX design/Information Architechture.md",
     "Knowledge/UX design/Design thinking framework.md",
-    "Knowledge/UX design/Double Diamond Design Framework.md",
     "Knowledge/UX design/Key UX metric.md",
+    "Knowledge/UX design/Hooked Model Framework.md",
+    "Knowledge/UX design/10 Usability Heuristics.md",
+    "Knowledge/UX design/Accessibility vs Usability.md",
+    "Knowledge/UX design/Double Diamond Design Framework.md",
     "Untitled.canvas",
     "2023-06-04.md",
     "Book/Flow.md",
-    "Knowledge/UX design/Usability testing methods.md",
-    "Knowledge/UX design/10 Usability Heuristics.md",
-    "Knowledge/UX design/UX definition.md",
     "Knowledge/UX design",
     "Untitled"
   ]
